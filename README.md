@@ -27,16 +27,16 @@ Features:
 - Alerts on the dashboard (webpage) when quality poor or falling.
 
 ## Final features:
-- Air quality sensor for CO2, temp, humidity ([scd4x](Sensor code/CO2Sensor/setup.cpp))
+- Air quality sensor for CO2, temp, humidity ([scd4x](Sensor%20code/CO2Sensor/setup.cpp))
 	- Helps monitor if the door needs to be opened
 	- Also gives us data to submit to the building so they could help us figure out a solution
-- Sound level (microphone) sensor ([inmp441 nr0560](Sensor code/Microphone/setup.cpp))
+- Sound level (microphone) sensor ([inmp441 nr0560](Sensor%20code/Microphone/setup.cpp))
 	- Helps monitor the sound level of meetings, who is the loudest
 	- Mainly for fun
-- Ambient light sensor for light level ([BH1750](Sensor code/Light Sensor/setup.cpp))
+- Ambient light sensor for light level ([BH1750](Sensor%20code/Light%20Sensor/setup.cpp))
 	- Can use it to figure out if someone left the light on in the evening
 	- Also if anyone is in the room currently.
-- [OLED screen](Sensor code/Display/setup.cpp) to display current information
+- [OLED screen](Sensor%20code/Display/setup.cpp) to display current information
 	- Cycles through different stats, also shows time.
 - [InfluxDB webpage](https://iot.mits.ee/signin) to show historical data
 	- Good for monitoring
