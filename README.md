@@ -2,7 +2,7 @@
 
 The project is for collecting environmental data in MITS room in Delta (room nr 3064)
 
-Project members are Kevin Akkermann, Kustav Prants, Joosep Podekrat, Artur Tamm, Rohan 
+Project members are Kevin Akkermann, Kustav Prants, Joosep Podekrat, Artur Tamm, Rohan Iyer 
 
 
 ### Initial story 
